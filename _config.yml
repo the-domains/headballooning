@@ -1,4 +1,3 @@
-layout_spectrum: 0.9033627808094025
 typography_spectrum: 0.6021235778462142
 color:
   brandStrength: 0.3245706644374877
@@ -6,9 +5,17 @@ color:
   saturation: 0.6353851780295372
   rhythmicContrast: 0.872158937389031
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.9033627808094025
+author:
+  name: Björn Brockmann
+  email: inbox@zusammenspiel.com
+  url: www.zusammenspiel.com
+logo: null
 name: headballooning
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/44f22740-3fc9-422b-9589-3161d7eb9704.ico
